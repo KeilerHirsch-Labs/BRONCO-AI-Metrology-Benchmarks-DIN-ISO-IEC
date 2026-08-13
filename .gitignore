@@ -1,0 +1,18 @@
+# Ada / GNAT / SPARK build artifacts
+trusted_core/obj/
+trusted_core/gnatprove/
+*.ali
+*.o
+*.obj
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local experiment outputs and secrets
+.env
+.env.*
+results-local/
+evidence-local/
