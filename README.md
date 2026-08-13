@@ -61,7 +61,7 @@ BRONCO records the status of draft and superseding standards explicitly. Draft d
 
 The trusted core has a deliberately narrow attack and assurance surface. It does **not** own provider APIs, secrets, network access or vendor-specific model routing.
 
-See [Trusted Core](docs/trusted-core.md) and [Research Principles](docs/research-principles.md).
+See the [Measurement Model](docs/measurement-model.md), [Trusted Core](docs/trusted-core.md) and [Research Principles](docs/research-principles.md).
 
 ## Research-first roadmap
 
