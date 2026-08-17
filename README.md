@@ -15,6 +15,8 @@ The long-term goal is a benchmark and metrology framework whose claims are trace
 > BRONCO takes those claims seriously. A company seeking to set the industry's safety bar is an especially useful first field case for testing whether safety- and policy-relevant measurements are reproducible, uncertainty-aware and independently auditable.
 >
 > **No misconduct is presumed. If you aim to set the bar, the bar itself should be measurable.**
+>
+> [Read FC-001 — Policy-Driving AI Evaluation Provenance](docs/field-cases/FC-001-policy-evaluation-provenance.md) · [Browse BRONCO Field Cases](docs/field-cases/README.md)
 
 ## Design doctrine
 
