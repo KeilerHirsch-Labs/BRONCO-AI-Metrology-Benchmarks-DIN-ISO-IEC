@@ -8,6 +8,14 @@ The long-term goal is a benchmark and metrology framework whose claims are trace
 
 > **Current phase:** foundation and research protocol. No performance claims, conformance claims or accreditation claims are made.
 
+> [!NOTE]
+> ### Why Anthropic first?
+> [Anthropic describes itself](https://www.anthropic.com/company?type=company) as a **“safety-first company,”** says **“Safety Is a Science,”** and aims to **“set the industry bar for AI safety and security.”**
+>
+> BRONCO takes those claims seriously. A company seeking to set the industry's safety bar is an especially useful first field case for testing whether safety- and policy-relevant measurements are reproducible, uncertainty-aware and independently auditable.
+>
+> **No misconduct is presumed. If you aim to set the bar, the bar itself should be measurable.**
+
 ## Design doctrine
 
 1. **Research before implementation.** Literature, standards, constructs, hypotheses and nuisance variables come before benchmark features.
