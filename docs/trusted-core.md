@@ -44,7 +44,8 @@ validated typed evidence
 └────────────────────────────────────────────┘
         │
         ▼
-verified derived results
+derived results
+(proof status recorded per release / artifact)
         │
         ▼
 UNTRUSTED REPORTING / VISUALIZATION
