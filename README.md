@@ -28,6 +28,7 @@ The long-term goal is a benchmark and metrology framework whose claims are trace
 6. **Separate trusted calculation from untrusted orchestration.** Provider adapters, network I/O and rapidly changing APIs stay outside the trusted core.
 7. **Formal verification where it changes trust.** Ada/SPARK is reserved for the compact deterministic metrology core, not used as ceremony around the whole system.
 8. **No standards theatre.** BRONCO uses standards as engineering inputs and traceability anchors; it does not claim certification merely because a standard is cited.
+9. **Controlled technical language is part of reproducibility.** Use the [KeilerHirsch Technical Communication Profile (KTCP)](https://github.com/KeilerHirsch-Labs/.github/blob/main/KTCP.md) for canonical terms, explicit evidence qualifiers and low-ambiguity prose. KTCP is a communication profile, not a claim of ASD-STE100 conformity.
 
 ## Standards and metrology foundation
 
