@@ -229,3 +229,4 @@ Release package:
 - **No privileged vendor preview:** sealed reportable material is not disclosed early to one provider.
 - **No silent reuse of burned items:** once disclosed, an item remains useful for reproducibility and historical comparison but is no longer treated as hidden for future frontier evaluation.
 - **No contamination accusation from score alone:** an anomalous public-vs-hidden performance gap is a falsifiable research signal, not proof of deliberate vendor behavior.
+- **No language-induced ambiguity:** use canonical terms and explicit evidence qualifiers. Technical claims must not depend on hidden context to keep their intended meaning when quoted or translated. See [KTCP](https://github.com/KeilerHirsch-Labs/.github/blob/main/KTCP.md).
